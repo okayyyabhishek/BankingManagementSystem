@@ -28,6 +28,8 @@ Technologies Used
 
 📋 Data persistence with MySQL
 
+---
+
 Screenshots
 
 
