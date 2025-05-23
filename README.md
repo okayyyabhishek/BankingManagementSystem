@@ -5,8 +5,6 @@ A Java-based GUI application to automate and manage core banking operations like
 ---
 
 
----
-
 Technologies Used
 
 - Java (JDK 17+)
