@@ -16,13 +16,17 @@ Technologies Used
 - IntelliJ IDEA
 
 ---
-Features :-
+🚀 Features:-
 
-Account creation
-User login
-Balance display
-Deposit tracking
-Data persistence with MySQL
+✅ Account creation
+
+🔐 User login
+
+💰 Balance display
+
+💳 Deposit tracking
+
+📋 Data persistence with MySQL
 
 Screenshots
 
