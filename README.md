@@ -53,6 +53,10 @@ Screenshots
   <img width="300" alt="Screenshot 2025-05-24 at 21 08 38" src="https://github.com/user-attachments/assets/e75e634a-0860-49bf-bd0c-d6ff3c1123d7" />
   <br><b>Transaction History</b>
 </p>
+<p align="center">
+  <img width="300" alt="Screenshot 2025-05-24 at 21 21 07" src="https://github.com/user-attachments/assets/67d1a87c-7045-4d78-a7f4-5509c5116b08" />
+  <br><b>Database</b>
+</p>
 
 
 
