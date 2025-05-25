@@ -1,11 +1,11 @@
-Banking Management System
+## Banking Management System
 
 A Java-based GUI application to automate and manage core banking operations like account creation, login, transaction handling, and report generation. Built using Swing, JDBC, and MySQL.
 
 ---
 
 
-Technologies Used
+## Technologies Used
 
 - Java (JDK 17+)
 - Swing (for GUI)
@@ -14,7 +14,7 @@ Technologies Used
 - IntelliJ IDEA
 
 ---
-🚀 Features:-
+## 🚀 Features:-
 
 ✅ Account creation
 
@@ -28,7 +28,8 @@ Technologies Used
 
 ---
 
-Screenshots
+## Screenshots
+
 <p align="center">
   <img width="300" alt="Screenshot 2025-05-24 at 21 07 22" src="https://github.com/user-attachments/assets/10f3b87e-6939-457a-ad84-4a788d73c138" />
   <br><b>Home Screen</b>
@@ -58,7 +59,16 @@ Screenshots
   <br><b>Database</b>
 </p>
 
+---
 
+## Authors 
+ Abhishek
+ Saumya Rawat 
+ Priyanshu Pandey 
+ Deepak Gupta
+
+
+THANK YOU
 
 
 
