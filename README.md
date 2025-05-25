@@ -62,10 +62,10 @@ A Java-based GUI application to automate and manage core banking operations like
 ---
 
 ## Authors 
- Abhishek
- Saumya Rawat 
- Priyanshu Pandey 
- Deepak Gupta
+ - Abhishek
+ - Saumya Rawat 
+ - Priyanshu Pandey 
+ - Deepak Gupta
 
 
 THANK YOU
